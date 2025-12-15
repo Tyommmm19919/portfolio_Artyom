@@ -623,7 +623,7 @@ const App: React.FC = () => {
                     {text.contact.emailLabel}
                   </span>
                   <a href="mailto:youremail@example.com">
-                    youremail@example.com
+                    artyom19032008@gmail.com
                   </a>
                 </li>
                 <li>
