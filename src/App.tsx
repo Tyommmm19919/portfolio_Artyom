@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
+import TyomPhoto from "./Tyom.jpg"
 
 type Project = {
   title: string;
@@ -145,7 +146,7 @@ const App: React.FC = () => {
                 <div className="pf-avatar">
                   <span>
                     <img
-                      src="./Tyom.jpg"
+                      src={TyomPhoto}
                       style={{ width: "100%", borderRadius: "100%" }}
                     ></img>
                   </span>
