@@ -145,7 +145,7 @@ const App: React.FC = () => {
                 <div className="pf-avatar">
                   <span>
                     <img
-                      src="/src/Tyom.jpg"
+                      src="./Tyom.jpg"
                       style={{ width: "100%", borderRadius: "100%" }}
                     ></img>
                   </span>
