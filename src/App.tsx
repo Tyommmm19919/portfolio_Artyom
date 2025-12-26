@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 
-const tyomPhotoUrl = `${import.meta.env.BASE_URL}Tyom.jpg`;
+const tyomPhotoUrl = `${import.meta.env.BASE_URL}id_photo.jpg`;
 
 type Project = {
   title: string;
