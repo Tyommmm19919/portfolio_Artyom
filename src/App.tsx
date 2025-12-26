@@ -282,16 +282,15 @@ const projectsByLang: Record<Lang, Project[]> = {
       description:
         "Learning platform where users improve English by watching real movies and series. Custom admin panel, episode management, watch-progress, and vocabulary tools.",
       tech: ["React", "TypeScript", "Vite", "FastAPI", "MySQL"],
-      github: "#",
       link: "#",
     },
     {
-      title: "TOEFL Practice Simulator",
+      title: "International Tests(SAT, TOEFL, ACT, IELTS) Practice Simulator",
       role: "Frontend architecture",
       description:
         "SPA for TOEFL practice with reading, listening, speaking, and writing sections, timers, scoring logic, and detailed analytics.",
       tech: ["React", "TypeScript", "SPA architecture"],
-      github: "#",
+      link: "vrshikyans.com",
     },
     {
       title: "Modern Business Website",
@@ -313,12 +312,12 @@ const projectsByLang: Record<Lang, Project[]> = {
       link: "#",
     },
     {
-      title: "TOEFL Practice Simulator",
+      title: "International Tests(SAT, TOEFL, ACT, IELTS) Practice Simulator",
       role: "Фронтенд-архитектура",
       description:
         "SPA-приложение для подготовки к TOEFL с разделами чтения, аудирования, говорения и письма, таймерами, системой подсчёта баллов и подробной аналитикой.",
       tech: ["React", "TypeScript", "SPA-архитектура"],
-      github: "#",
+      link: "vrshikyans.com",
     },
     {
       title: "Modern Business Website",
