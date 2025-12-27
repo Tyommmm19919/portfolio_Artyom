@@ -95,7 +95,7 @@ const uiText = {
       nameLabel: "Name",
       namePlaceholder: "Your name",
       formEmailLabel: "Email",
-      formEmailPlaceholder: "your@email.com",
+      formEmailPlaceholder: "hakhumyantyom@gmail.com",
       projectLabel: "Project / idea",
       projectPlaceholder:
         "Briefly describe what you want to build…",
@@ -191,7 +191,7 @@ const uiText = {
       nameLabel: "Имя",
       namePlaceholder: "Ваше имя",
       formEmailLabel: "Email",
-      formEmailPlaceholder: "your@email.com",
+      formEmailPlaceholder: "hakhumyantyom@gmail.com",
       projectLabel: "Проект / идея",
       projectPlaceholder:
         "Кратко опишите, что вы хотите разработать…",
