@@ -201,7 +201,7 @@ const uiText = {
       formNote: "Сообщение мгновенно попадёт ко мне.",
     },
     footer: {
-      rights: "Все права защищены.",
+      rights: "Bce права защищены.",
       builtWith: "Сделано на React · TypeScript · Vite · FastAPI",
     },
   },
